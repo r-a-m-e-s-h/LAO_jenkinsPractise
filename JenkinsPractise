@@ -10,6 +10,8 @@ public class JenkinsPractise {
    		 System.out.println("Hello World ");
 		
 		System.out.println(" NEW CODE ADDED ");
+
+		System.out.println(" 2ND PUSH I THINK Hello World ");
 		
 
 	}
